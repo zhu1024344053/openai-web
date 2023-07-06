@@ -1,0 +1,1 @@
+import{au as e}from"./index-870652cb.js";const t=t=>{if(!t)return"N/A";const r=new Date(t);return e(r).format("YYYY-MM-DD HH:mm:ss")},r=e=>{let t="";try{t=getComputedStyle(document.documentElement).getPropertyValue(e)}catch(r){console.error(r)}return t};export{t as f,r as g};
